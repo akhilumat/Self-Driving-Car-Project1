@@ -1,4 +1,4 @@
-Please refer to Project Writeup and Video for more detial of work done
+Please refer to Project Writeup and Video for more detail of work done
 
 Finding Lane Lines on the Road
 
