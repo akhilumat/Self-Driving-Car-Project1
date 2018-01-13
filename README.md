@@ -1,3 +1,5 @@
+Please refer to Project Writeup and Video for more detial of work done
+
 Finding Lane Lines on the Road
 
 The goals / steps of this project are the following:
